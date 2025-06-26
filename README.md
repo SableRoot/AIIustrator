@@ -1,6 +1,6 @@
 # Adobe Illustrator 2025 (v26.7) Full Version
 
-![Illustrator Banner](https://imgur.com/lt1kFVJ) 
+![Illustrator Banner](https://i.imgur.com/lt1kFVJ.jpeg) 
 <!-- Это баннер вашего проекта. Загрузите картинку на сервис вроде imgur.com и вставьте сюда прямую ссылку -->
 
 **Adobe Illustrator 2025** is the industry-standard vector graphics software that lets you create everything from web and mobile graphics to logos, icons, book illustrations, product packaging, and billboards.
